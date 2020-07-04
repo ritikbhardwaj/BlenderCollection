@@ -6,4 +6,4 @@
 
 I was fiddling with subdivision surface modifier and edge loops. Ended up making a bullet.
 
-![Bullets render](renders/bullets-render.jpg)
+![Bullets render](https://github.com/ritikbhardwaj/BlenderCollection/blob/master/Renders/bullets-render.jpg)

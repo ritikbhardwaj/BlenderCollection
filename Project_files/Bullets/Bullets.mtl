@@ -1,0 +1,44 @@
+# Blender MTL File: 'Bullets.blend'
+# Material Count: 4
+
+newmtl Material
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.635382 0.026277
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd /Users/ritikbhardwaj/Desktop/folder/Blend files/Materials/Metal007_2K_Color.jpg
+map_Ns /Users/ritikbhardwaj/Desktop/folder/Blend files/Materials/Metal007_2K_Roughness.jpg
+
+newmtl Material.001
+Ns 602.479331
+Ka 1.000000 1.000000 1.000000
+Kd 0.527115 0.527115 0.527115
+Ks 0.240909 0.240909 0.240909
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Material.002
+Ns 657.223171
+Ka 1.000000 1.000000 1.000000
+Kd 0.527115 0.527115 0.527115
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Material.003
+Ns 56.250000
+Ka 1.000000 1.000000 1.000000
+Kd 0.008955 0.008955 0.008955
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
